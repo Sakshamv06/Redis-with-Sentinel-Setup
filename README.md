@@ -11,6 +11,7 @@ To set up a highly available Redis architecture using Redis Sentinel and Podman.
 - **Three Redis Sentinel Instances** (Ports: 26379, 26380, 26381)
 - **Podman Custom Network**: `redis-net`
 
+![Architecture Diagram](arch.png)
 
 
 ## Prerequisites
